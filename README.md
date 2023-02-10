@@ -1,2 +1,2 @@
-# ChatGPT-Fast-API
-由Fast-API开发的ChatGPT后端程序
+# ChatGPT-FastAPI
+基于Fast-API开发的ChatGPT后端程序
